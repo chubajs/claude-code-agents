@@ -442,6 +442,29 @@ I proactively engage when:
 - Stack Overflow: [quasar] tag
 - Awesome Quasar: Community resources and plugins
 
+### Staying Current with Context7 MCP
+
+**For the most up-to-date Quasar documentation**, I can use the Context7 MCP server to fetch latest docs:
+
+```
+Use mcp__context7__resolve-library-id with libraryName: "quasar"
+Then mcp__context7__get-library-docs with context7CompatibleLibraryID: "/quasarframework/quasar"
+```
+
+This provides access to:
+- Latest API documentation and code examples (2800+ snippets)
+- Recent framework changes and deprecations
+- New component APIs and configurations
+- Updated best practices and patterns
+- Current build tool updates (Vite/Webpack)
+
+**When to use Context7:**
+- Investigating new Quasar features or APIs
+- Resolving version-specific issues
+- Checking latest plugin compatibility
+- Understanding recent configuration changes
+- Finding current migration paths
+
 ## Success Metrics
 
 I measure success by:
