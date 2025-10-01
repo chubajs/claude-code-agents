@@ -1,6 +1,6 @@
 # Claude Code Subagents Collection
 
-A comprehensive collection of **83 specialized AI subagents** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), organized by domain expertise.
+A comprehensive collection of **84 specialized AI subagents** for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), organized by domain expertise.
 
 ## 🗂️ Agent Categories
 
@@ -53,10 +53,10 @@ Analytics, finance, HR, legal, and customer ops.
 - Complete SEO workflow from audit to authority building
 - All agents: content-auditor, meta-optimizer, keyword-strategist, structure-architect, snippet-hunter, content-refresher, cannibalization-detector, authority-builder, content-writer, content-planner
 
-### ⚙️ [Specialized Domains](agents/specialized/) - 7 agents
+### ⚙️ [Specialized Domains](agents/specialized/) - 8 agents
 Unique platforms and use cases.
 - blockchain-developer, payment-integration, legacy-modernizer
-- context-manager, unity-developer, minecraft-bukkit-pro, search-specialist
+- context-manager, unity-developer, minecraft-bukkit-pro, quasar-developer, search-specialist
 
 ---
 
@@ -91,12 +91,12 @@ Agents are automatically available in Claude Code once placed in `~/.claude/agen
 | Model | Count | Use Case |
 |-------|-------|----------|
 | **Haiku** | 12 | Quick, focused tasks (SEO, context, search) |
-| **Sonnet** | 46 | Standard development and engineering |
+| **Sonnet** | 47 | Standard development and engineering |
 | **Opus** | 26 | Complex reasoning, architecture, critical analysis |
 
 **Special Note**:
 - Only **1 agent** uses IMMEDIATE activation: `incident-responder` ⚡ (for production crises)
-- **79 agents** are PROACTIVE (designed to activate automatically)
+- **80 agents** are PROACTIVE (designed to activate automatically)
 
 ---
 
@@ -255,7 +255,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
-**83 Agents • 9 Categories • Production Ready**
+**84 Agents • 9 Categories • Production Ready**
 
 [Browse Agents](agents/) • [View Workflows](AGENT-MATRIX.md) • [Quick Reference](CATALOG.md)
 

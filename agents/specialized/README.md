@@ -1,6 +1,6 @@
 # Specialized Domain Agents
 
-**7 agents** for unique use cases and specialized platforms.
+**8 agents** for unique use cases and specialized platforms.
 
 ## Domain Specialists
 
@@ -12,6 +12,7 @@
 | [context-manager](context-manager.md) | haiku | Multi-agent context management |
 | [unity-developer](unity-developer.md) | sonnet | Unity 6 LTS game development |
 | [minecraft-bukkit-pro](minecraft-bukkit-pro.md) | sonnet | Minecraft server plugin development |
+| [quasar-developer](quasar-developer.md) | sonnet | Cross-platform apps with Quasar Framework (Vue.js) |
 | [search-specialist](search-specialist.md) | haiku | Advanced web research and information synthesis |
 
 ## By Use Case
@@ -56,6 +57,15 @@
 - Plugin development
 - Server management
 
+### Cross-Platform Development
+**quasar-developer** - Single codebase, multiple platforms (451 lines!)
+- SPA, SSR, PWA development
+- Mobile apps (iOS/Android via Capacitor/Cordova)
+- Desktop apps (Electron)
+- Browser extensions (BEX)
+- Vue 3 + Composition API + Pinia
+- Multi-platform deployment expertise
+
 ### Research & Discovery
 **search-specialist** - Information gathering
 - Web research
@@ -69,6 +79,12 @@
 - **148 capabilities** - Third highest in collection
 - **15 sections** - Tied for most sections
 - Complete game development lifecycle
+
+### 🌐 quasar-developer
+- **451 lines** - Most comprehensive in specialized category!
+- **14 major sections** - Deep cross-platform coverage
+- **Complete stack** - Vue 3, SSR, PWA, mobile, desktop
+- Production-ready patterns for all platforms
 
 ### 🔗 context-manager
 - Elite context engineering
@@ -114,6 +130,16 @@ context-manager → ai-engineer → mlops-engineer
 minecraft-bukkit-pro → java-pro → test-automator
 ```
 
+### Cross-Platform App
+```
+quasar-developer → frontend-developer → test-automator → deployment-engineer
+```
+
+### Mobile App with Backend
+```
+quasar-developer → backend-architect → mobile-security-coder → performance-engineer
+```
+
 ## Integration Points
 
 **blockchain-developer** integrates with:
@@ -136,6 +162,13 @@ minecraft-bukkit-pro → java-pro → test-automator
 - observability-engineer (monitoring)
 - data-engineer (data pipelines)
 
+**quasar-developer** integrates with:
+- frontend-developer (UI components)
+- backend-architect (API design)
+- mobile-security-coder (app security)
+- performance-engineer (optimization)
+- deployment-engineer (multi-platform deployment)
+
 ## When to Use
 
 **Building DeFi protocol?** → blockchain-developer
@@ -144,6 +177,7 @@ minecraft-bukkit-pro → java-pro → test-automator
 **Complex AI system?** → context-manager
 **Creating a game?** → unity-developer
 **Minecraft server mods?** → minecraft-bukkit-pro
+**Cross-platform app (web/mobile/desktop)?** → quasar-developer
 **Deep research needed?** → search-specialist
 
 [← Back to Main Catalog](../../README.md)

@@ -12,8 +12,8 @@ Navigate to specific agent categories:
 - **[Documentation & Content](documentation/)** - 6 technical writing agents
 - **[Business & Operations](business/)** - 7 business and ops agents
 - **[SEO & Content Optimization](seo/)** - 10 specialized SEO agents
-- **[Specialized Domains](specialized/)** - 7 unique platform agents
+- **[Specialized Domains](specialized/)** - 8 unique platform agents
 
-**Total: 83 agents**
+**Total: 84 agents**
 
 [← Back to Main README](../README.md)

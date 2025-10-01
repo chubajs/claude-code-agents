@@ -2,7 +2,7 @@
 
 ## ✅ Completed Reorganization
 
-All 83 agents have been successfully organized into a logical folder structure.
+All 84 agents have been successfully organized into a logical folder structure.
 
 ## 📂 Directory Structure
 
@@ -29,7 +29,7 @@ claude-code-agents/
     ├── documentation/                 # 6 agents + README
     ├── business/                      # 7 agents + README
     ├── seo/                          # 10 agents + README
-    └── specialized/                   # 7 agents + README
+    └── specialized/                   # 8 agents + README
 ```
 
 ## 📊 Organization Breakdown
@@ -142,7 +142,7 @@ claude-code-agents/
 - seo-snippet-hunter.md
 - seo-structure-architect.md
 
-### agents/specialized/ (7 agents)
+### agents/specialized/ (8 agents)
 **Focus**: Unique platforms and use cases
 
 - blockchain-developer.md
@@ -150,6 +150,7 @@ claude-code-agents/
 - legacy-modernizer.md
 - minecraft-bukkit-pro.md
 - payment-integration.md
+- quasar-developer.md
 - search-specialist.md
 - unity-developer.md
 
@@ -232,6 +233,6 @@ claude-code-agents/
 
 ---
 
-**Total: 83 agents • 9 categories • 9 READMEs • Production ready**
+**Total: 84 agents • 9 categories • 9 READMEs • Production ready**
 
 Generated: 2025-10-01
